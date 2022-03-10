@@ -146,6 +146,9 @@ font-family: 'Permanent Marker', cursive;
     border-radius: 9px;
     cursor: pointer;
 }
+.btn:hover{
+    color: black;
+}
 .center{
     text-align: center;
 }
